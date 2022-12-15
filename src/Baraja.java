@@ -1,5 +1,10 @@
 import java.util.Arrays;
+/*
+author: Navpreet Estuardo Gojlia Once
+fecha: 15/12/2022
+ */
 public class Baraja {
+
     /*llamamos a la clase Carta*/
     Carta c1 = new Carta();
     /*instaciomos el tamaño y su interior*/
